@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+wikipedia
+phonenumbers
+requests
+urllib3
